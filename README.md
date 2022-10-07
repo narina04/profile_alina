@@ -1,2 +1,2 @@
 # profile_alina
-opensource project
+opensource project for hacktoberfest 2022
