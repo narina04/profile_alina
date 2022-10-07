@@ -21,3 +21,19 @@ img {
     font-size: 30px;
     margin: 20px;
 }
+.description, .education {
+    margin: 0px 20px;
+    font-size: 20px;
+}
+.education {
+    padding-top: 20px;
+}
+ul li {
+    text-align: center;
+    list-style: none;
+    margin-bottom: 10px;
+}
+.profession {
+    margin: 0 20px;
+    font-size: 20px;
+}
